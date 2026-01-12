@@ -1,4 +1,4 @@
 function solution(arr) {
     var answer = '';
-    return [...arr].join("");
+    return arr.join("");
 }
