@@ -1,0 +1,9 @@
+function solution(arr) {
+    var answer = [];
+    const first = arr.indexOf(2);
+    const last = arr.lastIndexOf(2);
+    if (first === -1) return [-1];
+    answer = arr.slice(first, last+1)
+
+    return answer;
+}
