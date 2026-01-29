@@ -1,9 +1,19 @@
 function solution(s, n) {
-    var answer = s.split("").map((char) => {
-        if( char === " ") return " ";
-        const base = char.toUpperCase() === char ? 65 : 97;
-        return String.fromCharCode(((char.charCodeAt(0) - base + n) % 26) + base);
-    }).join("")
-    return answer;
+    const lower = "abcdefghijklmnopqrstuvwxyz";
+    const upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    return [...s].map(char => {
+        if (char === " ") return " "
+        let idx = lower.indexOf(char);
+        if (idx !== -1) {
+        return lower[(idx + n) % 26];
+    }
+
+        idx = upper.indexOf(char);
+        if (idx !== -1) {
+          return upper[(idx + n) % 26];
+        }
+
+        return char;
+      }).join("");
 }
 
