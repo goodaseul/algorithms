@@ -8,13 +8,21 @@
 ---
 
 <!---LeetCode Topics Start-->
+
+> **시작일**: 2026.02 ~ 진행 중
+
 # LeetCode Topics
+
 ## Array
-|  |
-| ------- |
+
+|                                                                                  |
+| -------------------------------------------------------------------------------- |
 | [0001-two-sum](https://github.com/goodaseul/algorithms/tree/master/0001-two-sum) |
+
 ## Hash Table
-|  |
-| ------- |
+
+|                                                                                  |
+| -------------------------------------------------------------------------------- |
 | [0001-two-sum](https://github.com/goodaseul/algorithms/tree/master/0001-two-sum) |
+
 <!---LeetCode Topics End-->
