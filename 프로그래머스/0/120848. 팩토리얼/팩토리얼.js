@@ -1,9 +1,11 @@
 function solution(n) {
-    let standardI = 1;
-    let sum = 1;
-    while( sum * (standardI + 1) <= n){
-        standardI++;
-        sum *= standardI
+    let count = 1;
+    let factorial = 1;
+    
+    while( factorial <= n) {
+        count += 1;
+        factorial *= count
     }
-    return standardI;
+        
+    return count - 1;
 }
