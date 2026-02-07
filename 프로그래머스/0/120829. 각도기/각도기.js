@@ -6,7 +6,7 @@ function solution(angle) {
        answer = 2
    }else if ( angle < 180){
        answer = 3
-   }else if (angle === 180){
+   }else{
        answer = 4
    }
     return answer;
