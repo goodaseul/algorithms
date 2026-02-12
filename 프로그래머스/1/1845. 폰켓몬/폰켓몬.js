@@ -1,6 +1,8 @@
 function solution(nums) {
-    const kinds = new Set(nums).size;
-    const limit = nums.length / 2;
-    return Math.min(kinds,limit)
+    let getNums = nums.length / 2;
+    const map = new Map();
+    for( const num of nums) {
+        map.set( num, (map.get(num) || 0) + 1);
+    }
+    return Math.min(getNums, map.size)
 }
-
