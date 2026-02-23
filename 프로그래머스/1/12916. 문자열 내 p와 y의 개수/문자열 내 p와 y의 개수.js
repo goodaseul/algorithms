@@ -1,13 +1,9 @@
 function solution(s){
-    var answer = true;
-    const letter = s.toLowerCase();
-    let pLength = 0;
-    let yLength = 0;
-        
-    for( let i = 0; i < letter.length; i++){
-        if( letter[i] === "p") pLength += 1;
-        if( letter[i] === "y") yLength += 1;
+    let hasP = 0;
+    let hasY = 0;
+    for( const i of s.toLowerCase()){
+        if(i === "p") hasP++;
+        if(i === "y") hasY++;
     }
-    
-    return pLength === yLength ? true : false ;
+    return hasP === hasY
 }
