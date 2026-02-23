@@ -1,6 +1,12 @@
 function solution(s) {
-   
-    let check = s.length === 4 || s.length === 6
-    return check ? s.split("").every((ele) => !isNaN(ele)) : false
-    
+  if (!(s.length === 4 || s.length === 6)) {
+    return false;
+  }
+
+  for (const char of s) {
+    if (char < "0" || char > "9") {
+      return false;
+    }
+  }
+  return true;
 }
