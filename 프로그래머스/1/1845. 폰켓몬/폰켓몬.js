@@ -1,8 +1,6 @@
 function solution(nums) {
-    let getNums = nums.length / 2;
-    const map = new Map();
-    for( const num of nums) {
-        map.set( num, (map.get(num) || 0) + 1);
-    }
-    return Math.min(getNums, map.size)
+    const getHalf = nums.length / 2;
+    const set = new Set(nums);
+    return Math.min(getHalf, set.size)
 }
+
