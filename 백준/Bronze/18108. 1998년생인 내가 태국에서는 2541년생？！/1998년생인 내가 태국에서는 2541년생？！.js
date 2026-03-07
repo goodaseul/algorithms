@@ -1,5 +1,4 @@
 const fs = require('fs');
-const input = fs.readFileSync('/dev/stdin', 'utf8').trim().split(' ');
+const input = fs.readFileSync(0, 'utf8').trim();
 
-
-console.log( input - 543 )
+console.log( Number(input) - 543 )
