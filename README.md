@@ -15,4 +15,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0001-two-sum/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
