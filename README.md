@@ -11,6 +11,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0014-longest-common-prefix/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,4 +26,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0014-longest-common-prefix/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
