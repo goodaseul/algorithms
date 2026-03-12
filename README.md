@@ -31,4 +31,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0014-longest-common-prefix/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0101-symmetric-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0101-symmetric-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0101-symmetric-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0101-symmetric-tree/) | Easy |
 <!---LeetCode Topics End-->
