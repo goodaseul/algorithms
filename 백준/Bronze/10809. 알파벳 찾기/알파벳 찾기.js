@@ -7,4 +7,4 @@ for( let i = 0; i < 26; i ++) {
     const alphabet = String.fromCharCode(97 + i);
     result += input.indexOf(alphabet) + " ";
 }
-console.log( result.trim() )
+console.log( result )
