@@ -52,8 +52,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0021-merge-two-sorted-lists/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
