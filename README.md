@@ -12,11 +12,13 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0014-longest-common-prefix/) | Easy |
+| [0217-contains-duplicate](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0013-roman-to-integer/) | Easy |
+| [0217-contains-duplicate](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0217-contains-duplicate/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,4 +60,8 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0021-merge-two-sorted-lists/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
