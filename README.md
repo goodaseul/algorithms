@@ -12,6 +12,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0014-longest-common-prefix/) | Easy |
+| [0088-merge-sorted-array](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0219-contains-duplicate-ii/) | Easy |
 ## Hash Table
@@ -65,9 +66,14 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0217-contains-duplicate/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0219-contains-duplicate-ii/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
