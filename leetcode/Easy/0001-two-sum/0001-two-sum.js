@@ -3,13 +3,11 @@
  * @param {number} target
  * @return {number[]}
  */
-const twoSum = function(nums, target) {
+var twoSum = function(nums, target) {
     const map = new Map();
-    for( let i = 0; i < nums.length; i++) {
-        let neededNum = target - nums[i];
-
-        if(map.has(neededNum)) return [map.get(neededNum), i];
-
+    for( let i = 0; i < nums.length; i ++) {
+        const requiredNum = target - nums[i];
+        if(map.has(requiredNum)) return [map.get(requiredNum), i];
         map.set(nums[i], i)
     }
 };
