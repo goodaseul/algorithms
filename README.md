@@ -15,6 +15,7 @@
 | [0088-merge-sorted-array](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0219-contains-duplicate-ii/) | Easy |
+| [1037-valid-boomerang](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/1037-valid-boomerang/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@
 | [0002-add-two-numbers](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0013-roman-to-integer/) | Easy |
+| [1037-valid-boomerang](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/1037-valid-boomerang/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,4 +88,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0020-valid-parentheses/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1037-valid-boomerang](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/1037-valid-boomerang/) | Easy |
 <!---LeetCode Topics End-->
