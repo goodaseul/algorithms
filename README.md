@@ -15,6 +15,7 @@
 | [0088-merge-sorted-array](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0219-contains-duplicate-ii/) | Easy |
+| [0283-move-zeroes](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0283-move-zeroes/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1037-valid-boomerang](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/1037-valid-boomerang/) | Easy |
 ## Hash Table
@@ -87,6 +88,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0125-valid-palindrome/) | Easy |
+| [0283-move-zeroes](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0283-move-zeroes/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
