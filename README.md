@@ -108,4 +108,12 @@
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0190-reverse-bits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
