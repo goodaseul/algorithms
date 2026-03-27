@@ -45,6 +45,7 @@
 | [0125-valid-palindrome](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0344-reverse-string/) | Easy |
+| [0541-reverse-string-ii](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0541-reverse-string-ii/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@
 | [0283-move-zeroes](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0344-reverse-string/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0541-reverse-string-ii](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0541-reverse-string-ii/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
