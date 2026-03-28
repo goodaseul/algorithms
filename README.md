@@ -13,6 +13,7 @@
 | [0001-two-sum](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0217-contains-duplicate/) | Easy |
@@ -92,6 +93,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
