@@ -43,6 +43,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0020-valid-parentheses/) | Easy |
@@ -96,6 +97,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0027-remove-element/) | Easy |
@@ -127,4 +129,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0190-reverse-bits/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
