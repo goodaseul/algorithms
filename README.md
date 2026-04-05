@@ -36,6 +36,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0013-roman-to-integer/) | Easy |
 | [1037-valid-boomerang](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/1037-valid-boomerang/) | Easy |
