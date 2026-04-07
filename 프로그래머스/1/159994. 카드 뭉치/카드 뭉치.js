@@ -1,7 +1,6 @@
 function solution(cards1, cards2, goal) {
     let card1Pointer = 0;
     let card2Pointer = 0;
-    let result = false;
     for( let i = 0; i < goal.length; i++) {
         if( cards1[card1Pointer] == goal[i]) {
             card1Pointer++
