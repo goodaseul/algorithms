@@ -21,6 +21,7 @@
 | [0219-contains-duplicate-ii](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0283-move-zeroes/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1037-valid-boomerang](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/1037-valid-boomerang/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -32,6 +33,7 @@
 | [0219-contains-duplicate-ii](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0242-valid-anagram/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0961-n-repeated-element-in-size-2n-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
