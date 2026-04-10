@@ -15,6 +15,7 @@
 | [0015-3sum](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0027-remove-element/) | Easy |
+| [0036-valid-sudoku](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0036-valid-sudoku/) | Medium |
 | [0088-merge-sorted-array](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0217-contains-duplicate/) | Easy |
@@ -31,6 +32,7 @@
 | [0012-integer-to-roman](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0036-valid-sudoku](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0036-valid-sudoku/) | Medium |
 | [0217-contains-duplicate](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0242-valid-anagram/) | Easy |
@@ -153,4 +155,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
