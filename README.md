@@ -19,6 +19,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0027-remove-element/) | Easy |
 | [0036-valid-sudoku](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0036-valid-sudoku/) | Medium |
+| [0066-plus-one](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0217-contains-duplicate/) | Easy |
@@ -49,6 +50,7 @@
 | [0009-palindrome-number](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0066-plus-one/) | Easy |
 | [1037-valid-boomerang](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/1037-valid-boomerang/) | Easy |
 ## String
 | Problem Name | Difficulty |
