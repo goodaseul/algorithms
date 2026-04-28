@@ -42,6 +42,7 @@
 | [0242-valid-anagram](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0242-valid-anagram/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@
 | [0242-valid-anagram](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0344-reverse-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0541-reverse-string-ii/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
