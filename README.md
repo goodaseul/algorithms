@@ -28,6 +28,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1037-valid-boomerang](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/1037-valid-boomerang/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/2367-number-of-arithmetic-triplets/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/2367-number-of-arithmetic-triplets/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +138,7 @@
 | [0344-reverse-string](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0344-reverse-string/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0541-reverse-string-ii](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0541-reverse-string-ii/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/2367-number-of-arithmetic-triplets/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,4 +180,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0011-container-with-most-water/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/2367-number-of-arithmetic-triplets/) | Easy |
 <!---LeetCode Topics End-->
