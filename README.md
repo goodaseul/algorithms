@@ -11,6 +11,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/goodaseul/algorithms/tree/main/leetcode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0015-3sum/) | Medium |
@@ -151,11 +152,13 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/goodaseul/algorithms/tree/main/leetcode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/goodaseul/algorithms/tree/main/leetcode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/goodaseul/algorithms/tree/main/leetcode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0190-reverse-bits](https://github.com/goodaseul/algorithms/tree/main/leetcode/Easy/0190-reverse-bits/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
