@@ -1,21 +1,21 @@
 function solution(progresses, speeds) {
-    const days = progresses.map((progress, index) => 
-        Math.ceil((100 - progress) / speeds[index])
-    )
+    let answer = [];
+    let days = progresses.map((progress, idx) => {
+        return Math.ceil((100 - progress) / speeds[idx]);
+    }) 
+    let current = days[0]; 
+    let count = 1;
     
-    const commitAtOnce = [];
-    let current = days[0];
-    let items = 1;
-    
-    for(let i = 1; i < progresses.length; i ++) {
-        if( days[i] <= current) {
-            items++
+    for(let i = 1; i < progresses.length; i ++){
+        if( days[i] <= current ){
+            count ++;
         }else {
-            commitAtOnce.push(items);
+            answer.push(count);
             current = days[i];
-            items = 1;
+            count = 1
         }
     }
-    commitAtOnce.push(items)
-    return commitAtOnce
+    
+    answer.push(count)
+    return answer;
 }
