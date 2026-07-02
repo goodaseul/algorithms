@@ -1,15 +1,12 @@
 function solution(s){
     let count = 0;
-    for(const char of s){
-        if(count < 0) {
-            return false
-        }
-        if( char === "(") {
-            count++
-        }else if( char === ")") {
-            count--
-        }
+    
+    for( const roundB of s) {
+        if( roundB === "(")  count ++
+        else if( roundB === ")") count --
+        
+        if( count < 0 ) return false
     }
-    const result = count ===  0 ? true : false
-    return result
+
+    return count === 0;
 }
